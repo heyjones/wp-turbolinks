@@ -1,11 +1,9 @@
 WP Turbolinks
 =========================
 
-An implementation of the new Rails 4.0 feature, Turbolinks, for WordPress.
+An implementation of the updated Rails 5.0 feature, Turbolinks, for WordPress.
 
-https://github.com/rails/turbolinks
-
-"Turbolinks makes following links in your web application faster. Instead of letting the browser recompile the JavaScript and CSS between each page change, it keeps the current page instance alive and replaces only the body and the title in the head."
+https://github.com/turbolinks/turbolinks
 
 Installation
 ============
@@ -22,13 +20,14 @@ For Turbolinks to work you have to write your JavaScript in a certain way, in pa
 
 Please make sure you read about the pros and cons of Turbolinks before installing it on your site.  You may have to make significant changes to your JavaScript for it to work well.
 
-
 About
 =====
 
-Version: 1.0
+Version: 0.1
 
-Written by Adam Pope of Storm Consultancy - <http://www.stormconsultancy.co.uk>
+Updated by Chris Jones - <http://heyjones.com>
+
+Created by Adam Pope of Storm Consultancy - <http://www.stormconsultancy.co.uk>
 
 Storm Consultancy are a web design and development agency based in Bath, UK.
 
@@ -37,9 +36,9 @@ If you are looking for a [Bath WordPress Developer](http://www.stormconsultancy.
 Credits
 =======
 
-This is based off of the work by @dhh on the original Turbolinks gem for Rails.
+This is based off of the work by @dhh on the new Turbolinks gem for Rails.
 
-https://github.com/rails/turbolinks
+https://github.com/turbolinks/turbolinks
 
 We have also included the jQuery.Turblinks plugin by kossnocorp
 
